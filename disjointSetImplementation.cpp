@@ -52,5 +52,5 @@ public:
         }
     }
 
-   int void printDisjointGraph(){}
+   void printDisjointGraph(){}
 };
