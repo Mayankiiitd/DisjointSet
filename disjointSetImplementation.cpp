@@ -51,4 +51,6 @@ public:
             size[ulp_u] += size[ulp_v];
         }
     }
+
+   int void printDisjointGraph(){}
 };
