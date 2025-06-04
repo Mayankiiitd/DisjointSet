@@ -52,5 +52,7 @@ public:
         }
     }
 
-   void printDisjointGraph(){}
+   void printDisjointGraph(){
+       // add print logic here
+   }
 };
